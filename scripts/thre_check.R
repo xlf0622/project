@@ -23,4 +23,3 @@ print(result_for)
 # 使用 apply() 家族方法
 result_apply <- check_threshold_apply(random_vec)
 print(result_apply)
-
